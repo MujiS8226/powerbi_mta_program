@@ -6,7 +6,7 @@
   <p align="center">
     A two-week winter project aimed to showcase the capabilities of Power BI.
     <br />
-    <img src="dashboard_preview.png">
+    <img src="dashboard_preview.png" alt="Dashboard Preview" width="720" height=auto>
   </p>
 </div>
 
