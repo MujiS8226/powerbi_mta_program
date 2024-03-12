@@ -24,9 +24,9 @@ To get started with this project, follow these steps:
    ```sh
    git clone https://github.com/Muji8226/powerbi_mta_program.git
    ```
-2. Explore the original data in the data/original_data.xlsx file to understand the dataset.
-3. Run the Python script scripts/data_cleaning.py to preprocess the data before importing it into Power BI.
-4. Open the Power BI dashboard file dashboard/PowerBI_Winter_Project.pbix and start exploring the visualizations.
+2. Explore the raw dataset in the Eyewear Tracking File Data-Year 2023.xlsx.
+3. Run the Python script tldpxmta.py to preprocess the data before importing it into Power BI.
+4. Open the Power BI dashboard file eyewear_report.pbix and start exploring the visualizations.
 
 
 ### Built With
