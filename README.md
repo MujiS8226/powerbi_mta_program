@@ -11,13 +11,23 @@
 
 
 ## Description
-This project is the outcome of a two-week TLDP X MTA Remote Internship Program from Baruch College, collaborated with the Metropolitan Transportation Authority (MTA).
-This repository is dedicated to showcasing the potential of Power BI in data transformation through data cleaning and creating insightful dashboard reports. The project uses a sample dataset from a fictional goggle company called POG, focusing on order forms for goggles. The dataset includes information such as size, color, frame, order confirmation date, delivery date, client company ID, delivery status, and a unique form number.
+This project is created over a two-week period as an outcome of the TLDP X MTA Remote Internship Program from Baruch College, collaborated with the Metropolitan Transportation Authority (MTA).The repository includes the original data in an Excel worksheet, a Python script for data cleaning, and the Power BI dashboard file (.pbix).
+
+This project is dedicated to showcasing the potential of Power BI in data transformation through data cleaning and creating insightful dashboard reports. A sample dataset from a fictional goggle company called POG is used for the analysis, focusing on order forms for goggles. The dataset includes information such as size, color, frame, order confirmation date, delivery date, client company ID, delivery status, and a unique form number.
 
 This program is designed to assist students enrolled in the Technology Leadership Development Program (TLDP) at CUNY Baruch College, which is a leadership development program that are meant for student with an interest in technology-related fields to get a hand-on experience for career development.
 
 ## Getting Started
-give examples of how you may give instructions on setting up your project locally (prerequisites, installation)
+To get started with this project, follow these steps:
+
+1. Clone the repository to your local machine:
+   ```sh
+   git clone https://github.com/Muji8226/powerbi_mta_program.git
+   ```
+2. Explore the original data in the data/original_data.xlsx file to understand the dataset.
+3. Run the Python script scripts/data_cleaning.py to preprocess the data before importing it into Power BI.
+4. Open the Power BI dashboard file dashboard/PowerBI_Winter_Project.pbix and start exploring the visualizations.
+
 
 ### Built With
 * ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -26,7 +36,7 @@ give examples of how you may give instructions on setting up your project locall
 
 ## Dependencies
 * Power BI Desktop
-* Python 3.5.1
+* Python 3.x
 * pandas, random, numpy, datetime packages
 
 ## Contact
