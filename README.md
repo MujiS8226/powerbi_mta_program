@@ -25,9 +25,8 @@ To get started with this project, follow these steps:
    ```sh
    git clone https://github.com/Muji8226/powerbi_mta_program.git
    ```
-2. Explore the raw dataset in the Eyewear Tracking File Data-Year 2023.xlsx.
-3. Run the Python script tldpxmta.py to preprocess the data before importing it into Power BI.
-4. Open the Power BI dashboard file eyewear_report.pbix and start exploring the visualizations.
+2. Explore the raw dataset in the Eyewear Tracking File Data-Year 2023.xlsx. The account_name.xlsx file is a small dataset that stores a list of AI-generated acount names for readability, not part of the initial dataset.
+3. View the visualizations of the cleaned dataset on the Power BI dashboard file eyewear_report.pbix.
 
 
 ### Built With
