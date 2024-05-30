@@ -40,7 +40,7 @@ To get started with this project, follow these steps:
 * pandas, random, numpy, datetime packages
 
 ## Contact
-Name - [GitHub](https://github.com/Muji8226) - [LinkedIn](http://www.linkedin.com/in/mujie-shen/)
+Mujie Shen - [GitHub](https://github.com/Muji8226) - [LinkedIn](http://www.linkedin.com/in/mujie-shen/)
 
 ## Acknowledgement
 * [Img Shields](https://shields.io)
